@@ -1,0 +1,10 @@
+.app-zone-pointillee {
+   
+    box-shadow: mat-elevation-z2;
+}
+
+.app-zone-pointillee {
+   
+    width: 210mm; /* Largeur DIN A4 */
+    height: 297mm; /* Hauteur DIN A4 */
+}

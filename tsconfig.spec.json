@@ -3,8 +3,8 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./out-tsc/spec",
-    "types": ["jasmine", "node"]
+    "types": ["jasmine-expect"]
   },
-  "files": ["src/test.ts", "src/polyfills.ts"],
+  "files": ["src/test.ts", "src/polyfills.ts" , "cypress.config.ts"],
   "include": ["src/**/*.spec.ts", "src/**/*.d.ts"]
 }

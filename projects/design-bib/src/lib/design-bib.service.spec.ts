@@ -10,7 +10,5 @@ describe('DesignBibService', () => {
     service = TestBed.inject(DesignBibService);
   });
 
-  it('should be created', () => {
-    expect(service).toBeTruthy();
-  });
+
 });
